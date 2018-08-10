@@ -8,5 +8,3 @@ Like other programming style guides, the issues covered span not only aesthetic 
 In this document, unless otherwise clarified:
 
 1. The term comment always refers to *implementation* comments. We do not use the phrase documentation comments, instead using the common term “JSDoc” for both human-readable text and machine-readable annotations within /** … */.
-
-2. This Style Guide uses RFC 2119 terminology when using the phrases must, must not, should, should not, and may. The terms prefer and avoid correspond to should and should not, respectively. Imperative and declarative statements are prescriptive and correspond to must.
