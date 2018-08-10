@@ -8,3 +8,5 @@ Like other programming style guides, the issues covered span not only aesthetic 
 In this document, unless otherwise clarified:
 
 1. The term comment always refers to *implementation* comments. We do not use the phrase documentation comments, instead using the common term “JSDoc” for both human-readable text and machine-readable annotations within /** … */.
+
+2. Example code in this document is non-normative. That is, while the examples are in Google Style, they may not illustrate the only stylish way to represent the code. Optional formatting choices made in examples must not be enforced as rules.
